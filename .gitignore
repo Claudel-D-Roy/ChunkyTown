@@ -1,0 +1,16 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ChunkyTown/.vs/ChunkyTown
+/ChunkyTown/ChunkyTown/ChunkyTown.vcxproj.user
+/ChunkyTown/Debug
+/ChunkyTown/ChunkyTown/Debug
+/Debug/ChunkyTown.exe
+/Debug/ChunkyTown.pdb
+/ChunkyTown/ChunkyTown.vcxproj.user
+/Debug/bin
+/Debug/glewinfo.exe
+/Debug/visualinfo.exe
+*.o

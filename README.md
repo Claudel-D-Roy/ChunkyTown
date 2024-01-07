@@ -1,7 +1,13 @@
 # ChunkyTown
 
-Mon premier projet en c++, avec OpenGL. 
+My first project in C++, with OpenGL.
 
-Ce projet était un projet de session, donc il a été fait en environ 15 semaines, en équipe de deux. 
+This project was a semester project, so it was completed in about 15 weeks, in a team of two.
 
-Il a été réalisé lors de la troisième session de ma technique en informatique. 
+It was carried out during the third semester of my software development program.
+
+## Project Overview
+
+The goal of the project was to evolve the game throughout the session, also serving as a learning experience for C++ and OpenGL.
+
+While the project had specific objectives, we were also given the freedom to make creative choices during the design phase.
